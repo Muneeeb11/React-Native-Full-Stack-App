@@ -1,0 +1,1074 @@
+[
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_la.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_la.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fo.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fo.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_de.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_de.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_vu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_vu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ec.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ec.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_az.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_az.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_vg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_vg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cv.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cv.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bi.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bi.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_by.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_by.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tj.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tj.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pe.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pe.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ro.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ro.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_je.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_je.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ps.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ps.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ch.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ch.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ws.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ws.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_al.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_al.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nord.app-main-47:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_wf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_wf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_es.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_es.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ni.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ni.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_uy.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_uy.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gy.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gy.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ma.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ma.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nord.app-main-47:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ve.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ve.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cx.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cx.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pr.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_am.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_am.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ml.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ml.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sb.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sb.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_hk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_hk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_it.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_it.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ee.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ee.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bj.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bj.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mo.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mo.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ax.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ax.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_eye.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_eye.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_zw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_zw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_vc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_vc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gi.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gi.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cd.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cd.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sx.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sx.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_to.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_to.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_th.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_th.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_rs.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_rs.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_id.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_id.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_us.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_us.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ng.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ng.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mp.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mp.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_qa.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_qa.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_py.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_py.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ao.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ao.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_vi.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_vi.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_et.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_et.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ai.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ai.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mq.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mq.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cy.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cy.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_be.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_be.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ie.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ie.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gp.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gp.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mv.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mv.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ug.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ug.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_rightarrow.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_rightarrow.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ci.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ci.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sa.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sa.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ly.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ly.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ph.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ph.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ke.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ke.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cz.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_at.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_at.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ua.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ua.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gd.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gd.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_jm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_jm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_me.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_me.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kp.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kp.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lb.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lb.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ls.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ls.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_rw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_rw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ae.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ae.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_io.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_io.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nord.app-main-47:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ky.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ky.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bq.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bq.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_td.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_td.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_calculator.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_calculator.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ge.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ge.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_co.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_co.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_vn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_vn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bb.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bb.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_hr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_hr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_dm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_dm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_st.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_st.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_br.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_br.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_dk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_dk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_image.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_image.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_as.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_as.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ca.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ca.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_chat.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_chat.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_eyehide.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_eyehide.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_au.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_au.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_md.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_md.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_eh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_eh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ss.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ss.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ba.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ba.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ru.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ru.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sv.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sv.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_se.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_se.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bd.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bd.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ar.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ar.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_dj.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_dj.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bs.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bs.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_xk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_xk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pa.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pa.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gq.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gq.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ad.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ad.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ht.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ht.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_li.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_li.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_in.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_in.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_no.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_no.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ki.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ki.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_na.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_na.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ag.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ag.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_iq.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_iq.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_yt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_yt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_hn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_hn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_assets_icons_send.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/assets_icons_send.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_re.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_re.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_hu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_hu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ck.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ck.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tv.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tv.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mx.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mx.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gb.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gb.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_is.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_is.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_jp.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_jp.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nu.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nu.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bn.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bn.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_uz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_uz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sj.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sj.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_aw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_aw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sy.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sy.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mc.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mc.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_nf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_nf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_kh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_kh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ir.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ir.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.nord.app-main-47:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lk.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_om.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_om.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fj.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fj.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_il.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_il.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_jo.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_jo.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_eg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_eg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cr.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_za.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_za.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bo.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bo.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sd.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sd.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_sz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_sz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ye.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ye.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gg.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gg.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_gr.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_gr.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_im.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_im.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_mh.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_mh.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ne.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ne.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_np.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_np.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ks.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ks.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_pk.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_pk.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_fi.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_fi.png"
+    },
+    {
+        "merged": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Muneeb\\.gradle\\daemon\\8.6\\com.nord.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_so.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_so.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_af.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_af.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_do.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_do.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_tl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_tl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cl.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cl.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_si.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_si.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ga.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ga.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_er.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_er.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_my.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_my.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_km.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_km.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_ms.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_ms.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_lv.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_lv.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_zm.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_zm.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_dz.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_dz.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cf.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cf.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_cw.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_cw.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_va.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_va.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnativephoneinput_dist_resources_flags_images_bt.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnativephoneinput_dist_resources_flags_images_bt.png"
+    },
+    {
+        "merged": "com.nord.app-merged_res-45:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.nord.app-main-47:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    }
+]

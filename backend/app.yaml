@@ -1,0 +1,15 @@
+runtime: nodejs18
+env: standard
+instance_class: F1
+
+handlers:
+  - url: /.*
+    script: auto
+
+automatic_scaling:
+  min_idle_instances: automatic
+  max_idle_instances: automatic
+  min_pending_latency: automatic
+  max_pending_latency: automatic
+
+service_account: t-cogency-425520-j6@appspot.gserviceaccount.com

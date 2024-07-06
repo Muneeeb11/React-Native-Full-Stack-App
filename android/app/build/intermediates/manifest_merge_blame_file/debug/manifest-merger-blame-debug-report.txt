@@ -1,0 +1,510 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nord"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:3:5-67
+11-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->[:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+12-->[:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+13-->[:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+14
+15    <queries>
+15-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+16        <intent>
+16-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+17            <action android:name="android.media.action.IMAGE_CAPTURE" />
+17-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+17-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+18        </intent>
+19    </queries>
+20
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-81
+21-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23    <!--
+24    This manifest file is used only by Gradle to configure debug-only capabilities
+25    for React Native Apps.
+26    -->
+27    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+27-->[com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:16:5-78
+27-->[com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:16:22-75
+28    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+28-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:25:5-79
+28-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:25:22-76
+29    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+29-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:26:5-88
+29-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:26:22-85
+30    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+30-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:27:5-82
+30-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:27:22-79
+31    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+31-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+31-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+32    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+32-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:26:5-110
+32-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:26:22-107
+33
+34    <permission
+34-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+35        android:name="com.nord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.nord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+39
+40    <application
+40-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:5:5-25:19
+41        android:name="com.nord.MainApplication"
+41-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:6:7-38
+42        android:allowBackup="false"
+42-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:10:7-34
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="false"
+46        android:icon="@mipmap/ic_launcher"
+46-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:8:7-41
+47        android:label="@string/app_name"
+47-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:7:7-39
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:9:7-52
+49        android:theme="@style/AppTheme"
+49-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:11:7-38
+50        android:usesCleartextTraffic="true" >
+50-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:6:9-44
+51        <activity
+51-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:13:7-24:18
+52            android:name="com.nord.MainActivity"
+52-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:14:9-37
+53            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+53-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:16:9-118
+54            android:exported="true"
+54-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:19:9-32
+55            android:label="@string/app_name"
+55-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:15:9-41
+56            android:launchMode="singleTask"
+56-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:17:9-40
+57            android:windowSoftInputMode="adjustResize" >
+57-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:18:9-51
+58            <intent-filter>
+58-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:20:9-23:25
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:21:13-65
+59-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:21:21-62
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:22:13-73
+61-->C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:22:23-70
+62            </intent-filter>
+63        </activity>
+64
+65        <meta-data
+65-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+66            android:name="app_data_collection_default_enabled"
+66-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+67            android:value="true" />
+67-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+68
+69        <service
+69-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+70            android:name="com.google.firebase.components.ComponentDiscoveryService"
+70-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+71            android:directBootAware="true"
+71-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+72            android:exported="false" >
+72-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+73            <meta-data
+73-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+74                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+74-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+77                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+77-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+79            <meta-data
+79-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+80                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+80-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+82            <meta-data
+82-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+83                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+83-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:25:13-27:85
+86                android:name="com.google.firebase.components:com.google.firebase.appcheck.playintegrity.FirebaseAppCheckPlayIntegrityRegistrar"
+86-->[com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:26:17-144
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:27:17-82
+88            <meta-data
+88-->[com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:25:13-27:85
+89                android:name="com.google.firebase.components:com.google.firebase.appcheck.debug.FirebaseAppCheckDebugRegistrar"
+89-->[com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:26:17-128
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:27:17-82
+91            <meta-data
+91-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:37:13-39:85
+92                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+92-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:38:17-139
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:39:17-82
+94            <meta-data
+94-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:30:13-32:85
+95                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+95-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:31:17-118
+96                android:value="com.google.firebase.components.ComponentRegistrar" />
+96-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:32:17-82
+97            <meta-data
+97-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:33:13-35:85
+98                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+98-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:34:17-107
+99                android:value="com.google.firebase.components.ComponentRegistrar" />
+99-->[com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:35:17-82
+100            <meta-data
+100-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
+101                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+101-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:26:17-120
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:27:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:28:13-30:85
+104                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+104-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:29:17-117
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:30:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+107                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+107-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+110                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+110-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+112            <meta-data
+112-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+113                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+113-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+116                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+116-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+118        </service>
+119
+120        <provider
+120-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+121            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+121-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+122            android:authorities="com.nord.reactnativefirebaseappinitprovider"
+122-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+123            android:exported="false"
+123-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+124            android:initOrder="99" />
+124-->[:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+125        <provider
+125-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-24:20
+126            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+126-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-94
+127            android:authorities="com.nord.provider"
+127-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-60
+128            android:exported="false"
+128-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+129            android:grantUriPermissions="true" >
+129-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-47
+130            <meta-data
+130-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-23:78
+131                android:name="android.support.FILE_PROVIDER_PATHS"
+131-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-67
+132                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+132-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-75
+133        </provider>
+134
+135        <activity
+135-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:72
+136            android:name="com.yalantis.ucrop.UCropActivity"
+136-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+137            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+137-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-69
+138
+139        <provider
+139-->[:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+140            android:name="com.imagepicker.ImagePickerProvider"
+140-->[:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+141            android:authorities="com.nord.imagepickerprovider"
+141-->[:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+142            android:exported="false"
+142-->[:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+143            android:grantUriPermissions="true" >
+143-->[:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+144            <meta-data
+144-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-23:78
+145                android:name="android.support.FILE_PROVIDER_PATHS"
+145-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-67
+146                android:resource="@xml/imagepicker_provider_paths" />
+146-->[:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-75
+147        </provider>
+148
+149        <activity
+149-->[com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:19:9-21:40
+150            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+150-->[com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:20:13-77
+151            android:exported="false" />
+151-->[com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:21:13-37
+152        <activity
+152-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+153            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+153-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+154            android:excludeFromRecents="true"
+154-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+155            android:exported="true"
+155-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+156            android:launchMode="singleTask"
+156-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+157            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+157-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+158            <intent-filter>
+158-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+159                <action android:name="android.intent.action.VIEW" />
+159-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+159-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+160
+161                <category android:name="android.intent.category.DEFAULT" />
+161-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+161-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+162                <category android:name="android.intent.category.BROWSABLE" />
+162-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+162-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+163
+164                <data
+164-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+165                    android:host="firebase.auth"
+165-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+166                    android:path="/"
+166-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+167                    android:scheme="genericidp" />
+167-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+168            </intent-filter>
+169        </activity>
+170        <activity
+170-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+171            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+171-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+172            android:excludeFromRecents="true"
+172-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+173            android:exported="true"
+173-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+174            android:launchMode="singleTask"
+174-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+175            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+175-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+176            <intent-filter>
+176-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+177                <action android:name="android.intent.action.VIEW" />
+177-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+177-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+178
+179                <category android:name="android.intent.category.DEFAULT" />
+179-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+179-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+180                <category android:name="android.intent.category.BROWSABLE" />
+180-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+180-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+181
+182                <data
+182-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+183                    android:host="firebase.auth"
+183-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+184                    android:path="/"
+184-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+185                    android:scheme="recaptcha" />
+185-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+186            </intent-filter>
+187        </activity>
+188
+189        <property
+189-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:30:9-32:61
+190            android:name="android.adservices.AD_SERVICES_CONFIG"
+190-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:31:13-65
+191            android:resource="@xml/ga_ad_services_config" />
+191-->[com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:32:13-58
+192
+193        <provider
+193-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+194            android:name="com.google.firebase.provider.FirebaseInitProvider"
+194-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+195            android:authorities="com.nord.firebaseinitprovider"
+195-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+196            android:directBootAware="true"
+196-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+197            android:exported="false"
+197-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+198            android:initOrder="100" />
+198-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+199
+200        <service
+200-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+201            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+201-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+202            android:enabled="true"
+202-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+203            android:exported="false" >
+203-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+204            <meta-data
+204-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+205                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+205-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+206                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+206-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+207        </service>
+208
+209        <activity
+209-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+210            android:name="androidx.credentials.playservices.HiddenActivity"
+210-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+211            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+211-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+212            android:enabled="true"
+212-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+213            android:exported="false"
+213-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+214            android:fitsSystemWindows="true"
+214-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+215            android:theme="@style/Theme.Hidden" >
+215-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+216        </activity>
+217        <activity
+217-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:23:9-27:75
+218            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+218-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:24:13-93
+219            android:excludeFromRecents="true"
+219-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:25:13-46
+220            android:exported="false"
+220-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:26:13-37
+221            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+221-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:27:13-72
+222        <!--
+223            Service handling Google Sign-In user revocation. For apps that do not integrate with
+224            Google Sign-In, this service will never be started.
+225        -->
+226        <service
+226-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:33:9-37:51
+227            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+227-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:34:13-89
+228            android:exported="true"
+228-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:35:13-36
+229            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+229-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:36:13-107
+230            android:visibleToInstantApps="true" />
+230-->[com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:37:13-48
+231
+232        <receiver
+232-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:29:9-33:20
+233            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+233-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:30:13-85
+234            android:enabled="true"
+234-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:31:13-35
+235            android:exported="false" >
+235-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:32:13-37
+236        </receiver>
+237
+238        <service
+238-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:35:9-38:40
+239            android:name="com.google.android.gms.measurement.AppMeasurementService"
+239-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:36:13-84
+240            android:enabled="true"
+240-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:37:13-35
+241            android:exported="false" />
+241-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:38:13-37
+242        <service
+242-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:39:9-43:72
+243            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+243-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:40:13-87
+244            android:enabled="true"
+244-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:41:13-35
+245            android:exported="false"
+245-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:42:13-37
+246            android:permission="android.permission.BIND_JOB_SERVICE" />
+246-->[com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:43:13-69
+247
+248        <activity
+248-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+249            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+249-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+250            android:exported="false"
+250-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+251            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+251-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+252
+253        <uses-library
+253-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+254            android:name="android.ext.adservices"
+254-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+255            android:required="false" />
+255-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+256
+257        <meta-data
+257-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+258            android:name="com.google.android.gms.version"
+258-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+259            android:value="@integer/google_play_services_version" />
+259-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+260
+261        <provider
+261-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+262            android:name="androidx.startup.InitializationProvider"
+262-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+263            android:authorities="com.nord.androidx-startup"
+263-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+264            android:exported="false" >
+264-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+265            <meta-data
+265-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+266                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+266-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+267                android:value="androidx.startup" />
+267-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+268            <meta-data
+268-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+269                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+269-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+270                android:value="androidx.startup" />
+270-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+271        </provider>
+272
+273        <meta-data
+273-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+274            android:name="com.facebook.soloader.enabled"
+274-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
+275            android:value="false" />
+275-->[com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+276    </application>
+277
+278</manifest>

@@ -1,0 +1,1019 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-community\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_firestore] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:react-native-picker_picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-safe-area-context] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-splash-screen] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5bf72d2b131c81fcda905f62a73470a4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Muneeb\.gradle\caches\transforms-4\c928c021b5fded16aefc584d6b597451\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d8ffb0f4fc504e3fe63c371f41d6c2d9\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\ef1955e5ea37b5d725bbb78ee1624789\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\9245dd12a98d13f97e594c3e84d1f90a\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2f1f7025a44db35af8ecfabdaec5275f\transformed\jetified-imagepipeline-okhttp3-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\30dde501ed708cbb68365b8de2d8c30c\transformed\jetified-firebase-analytics-22.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\d2bf376db071515583e54548e25fde56\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\1b3982306c364d2538cc0f0a6450cabe\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d80ea549410f2a815017dc0caf50ba59\transformed\jetified-play-services-measurement-sdk-22.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ed0dda7ad10062b320405aa8aeda4e8f\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79bdbbcc1df2f2179828a3c181e0c912\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Muneeb\.gradle\caches\transforms-4\19e355b9177a36070f2beae459d13b83\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ada5e7fe58edf49206a738ace7c5dfce\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\82c160ce438e48a6e4691ce2272b563e\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5d0fbe1d59048f7dd910fe462f2ba7f1\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\484d106a3068aeb91cd642aabcf5317c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\0724f36d1831f5368a5357b4b6550b05\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\56edb0a6f4129306a926664d4893da08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ee36701af9a35b32b59d8536552dae3a\transformed\loader-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5ef948b642b0e099c9dcc6a8367e4db\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\728809148a0831c95f3401fca4f1fbdf\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\6c2026a49db3c38188ac06dd976dd650\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\90f84b42593bfa926451ac8752559e97\transformed\jetified-firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\fc32347fc33c2a43fddf15cdac8af1d1\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f92abcd711bbf49ea516836351086312\transformed\jetified-play-services-measurement-base-22.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\42058dd2a9eec77df0f02789ef18b812\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\7a0e4f46420641b4cdd6994142fa1900\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Muneeb\.gradle\caches\transforms-4\a9de8dca237e158eb58e664161c28c83\transformed\fragment-1.5.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8fb56e5fc7aabab916795d523d5f52c9\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\68e6949ca90bd4b8794c6830a999e6e2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\5e56c3a605b81d58358933c9b81602ed\transformed\jetified-fresco-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\369a10a53947757522c973f53f12654d\transformed\jetified-drawee-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\486d07ea3e0a7b0aca2522b8b7f1e22b\transformed\jetified-nativeimagefilters-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\445e1c8df947b4a5e67f24caebf49dd3\transformed\jetified-memory-type-native-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\21cf2b1289a5fb20e640f18e3ff035f8\transformed\jetified-memory-type-java-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\bf2a7121334dea5f4a7365aa20baa4a5\transformed\jetified-imagepipeline-native-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\95cd913bcf82e29e7f2ff5f3913966dc\transformed\jetified-memory-type-ashmem-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\d4a7946779665e739cb00a7f85726adf\transformed\jetified-imagepipeline-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\7a179a74ef174ca8a20bcf5989b077e3\transformed\jetified-hermes-android-0.74.1-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\03ef13cb50c555ee2ab51e85c6f354a1\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\da7321c3914899c0455b3fc8464b1eb9\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\3d8ffa79e3d4fc76a8509d2f2e189ea8\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f22b44b829e870cf9893c2c62f2f5922\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f794654e1055241cdb40c74301b9056c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\536bd5d8b92075a00bb753ca7987d500\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Muneeb\.gradle\caches\transforms-4\3d48b78e99d6d0bb892ef0e7e0643591\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1dc2eadc2d646c4db97aaaf05ff87660\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\c1949a2c445840229f17934633ab6e9c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\aa126eeecb81c8fc400e674305a167c2\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2fae4f7b8577c6395d9c04ced79ae93\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\389638d94d2d7301920a85edf7fe8bb0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\f14d92355c03a111024081eef3fb4f75\transformed\jetified-nativeimagetranscoder-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\9027444032a6308ee09b115734438dc8\transformed\jetified-imagepipeline-base-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\ab04c3ac21d64da9d43f32b65b24cb5a\transformed\jetified-middleware-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\e8c1b51c8fe1e97516570592e29f4010\transformed\jetified-ui-common-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\da0473efe31df6fd21a4c8ec94322bdb\transformed\jetified-soloader-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2c1814c9ef7ea33724c8ce5191e86245\transformed\jetified-fbcore-3.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\a6b66dd7bcd3e7fbf7b2b598d11eeb7f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a1aaae2dfffe2111bb63cd3a3c0333ab\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\750f1c389821a53eb5895cb495d57529\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1c6841498d08e48f1bf70900dfdcb543\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8f028a369ac69e06e049f3fe22d84824\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8069682ef5022903c5c9e14c0a715770\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\afdd0da10734a27c03d51ae11db29cb2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e7de39af6205377d16af1c9d3eac8248\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\72fd8feb8753003366f079470f9f14c6\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f862e614dbd10485b23a70eca48dec26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\09076bdacf0f2407150dd107ae1cabd3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\395325e78082c62a8bd9649e6780583d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\22639886ea77654a528ddce3d7117dfc\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f5fbec64ecf0879986c6395aee48ab6b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a7e51fb5027be75503ef1d504ff422fb\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\46846224f0673f386606add40887115d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\6b369a1baaf8be0c41b72aaf9a1c0033\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:2:1-17:12
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ac0b3d27b74c1276eab820b742e96cc1\transformed\jetified-grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\89d5e8defd84fc4b5a7016bf52238b60\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:3:5-67
+MERGED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:5:5-8:50
+MERGED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-28:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:18:5-22:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d8ffb0f4fc504e3fe63c371f41d6c2d9\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d8ffb0f4fc504e3fe63c371f41d6c2d9\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\ef1955e5ea37b5d725bbb78ee1624789\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\ef1955e5ea37b5d725bbb78ee1624789\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\30dde501ed708cbb68365b8de2d8c30c\transformed\jetified-firebase-analytics-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\30dde501ed708cbb68365b8de2d8c30c\transformed\jetified-firebase-analytics-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\d2bf376db071515583e54548e25fde56\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\d2bf376db071515583e54548e25fde56\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d80ea549410f2a815017dc0caf50ba59\transformed\jetified-play-services-measurement-sdk-22.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d80ea549410f2a815017dc0caf50ba59\transformed\jetified-play-services-measurement-sdk-22.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79bdbbcc1df2f2179828a3c181e0c912\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79bdbbcc1df2f2179828a3c181e0c912\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ada5e7fe58edf49206a738ace7c5dfce\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ada5e7fe58edf49206a738ace7c5dfce\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\82c160ce438e48a6e4691ce2272b563e\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\82c160ce438e48a6e4691ce2272b563e\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\0724f36d1831f5368a5357b4b6550b05\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\0724f36d1831f5368a5357b4b6550b05\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\fc32347fc33c2a43fddf15cdac8af1d1\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\fc32347fc33c2a43fddf15cdac8af1d1\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f92abcd711bbf49ea516836351086312\transformed\jetified-play-services-measurement-base-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f92abcd711bbf49ea516836351086312\transformed\jetified-play-services-measurement-base-22.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\42058dd2a9eec77df0f02789ef18b812\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\42058dd2a9eec77df0f02789ef18b812\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f862e614dbd10485b23a70eca48dec26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f862e614dbd10485b23a70eca48dec26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:7:7-39
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:8:9-48
+	android:roundIcon
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:9:7-52
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:7:9-29
+	android:icon
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:8:7-41
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:10:7-34
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:11:7-38
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:6:7-38
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:6:7-38
+activity#com.nord.MainActivity
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\main\AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+MERGED from [:react-native-community_async-storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-community\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_async-storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-community\async-storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_firestore] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\firestore\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:react-native-picker_picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:10:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5bf72d2b131c81fcda905f62a73470a4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5bf72d2b131c81fcda905f62a73470a4\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Muneeb\.gradle\caches\transforms-4\c928c021b5fded16aefc584d6b597451\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Muneeb\.gradle\caches\transforms-4\c928c021b5fded16aefc584d6b597451\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d8ffb0f4fc504e3fe63c371f41d6c2d9\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d8ffb0f4fc504e3fe63c371f41d6c2d9\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\ef1955e5ea37b5d725bbb78ee1624789\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\ef1955e5ea37b5d725bbb78ee1624789\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\9245dd12a98d13f97e594c3e84d1f90a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Muneeb\.gradle\caches\transforms-4\9245dd12a98d13f97e594c3e84d1f90a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2f1f7025a44db35af8ecfabdaec5275f\transformed\jetified-imagepipeline-okhttp3-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2f1f7025a44db35af8ecfabdaec5275f\transformed\jetified-imagepipeline-okhttp3-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\30dde501ed708cbb68365b8de2d8c30c\transformed\jetified-firebase-analytics-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\30dde501ed708cbb68365b8de2d8c30c\transformed\jetified-firebase-analytics-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\d2bf376db071515583e54548e25fde56\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\d2bf376db071515583e54548e25fde56\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\1b3982306c364d2538cc0f0a6450cabe\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\1b3982306c364d2538cc0f0a6450cabe\transformed\jetified-credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d80ea549410f2a815017dc0caf50ba59\transformed\jetified-play-services-measurement-sdk-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d80ea549410f2a815017dc0caf50ba59\transformed\jetified-play-services-measurement-sdk-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ed0dda7ad10062b320405aa8aeda4e8f\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ed0dda7ad10062b320405aa8aeda4e8f\transformed\jetified-play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79bdbbcc1df2f2179828a3c181e0c912\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79bdbbcc1df2f2179828a3c181e0c912\transformed\jetified-integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Muneeb\.gradle\caches\transforms-4\19e355b9177a36070f2beae459d13b83\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] C:\Users\Muneeb\.gradle\caches\transforms-4\19e355b9177a36070f2beae459d13b83\transformed\jetified-play-services-auth-base-18.0.10\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ada5e7fe58edf49206a738ace7c5dfce\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ada5e7fe58edf49206a738ace7c5dfce\transformed\jetified-play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\82c160ce438e48a6e4691ce2272b563e\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\82c160ce438e48a6e4691ce2272b563e\transformed\jetified-firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5d0fbe1d59048f7dd910fe462f2ba7f1\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\5d0fbe1d59048f7dd910fe462f2ba7f1\transformed\jetified-firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\484d106a3068aeb91cd642aabcf5317c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\484d106a3068aeb91cd642aabcf5317c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\0724f36d1831f5368a5357b4b6550b05\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Muneeb\.gradle\caches\transforms-4\0724f36d1831f5368a5357b4b6550b05\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\56edb0a6f4129306a926664d4893da08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\56edb0a6f4129306a926664d4893da08\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ee36701af9a35b32b59d8536552dae3a\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ee36701af9a35b32b59d8536552dae3a\transformed\loader-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5ef948b642b0e099c9dcc6a8367e4db\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5ef948b642b0e099c9dcc6a8367e4db\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\728809148a0831c95f3401fca4f1fbdf\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\728809148a0831c95f3401fca4f1fbdf\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\6c2026a49db3c38188ac06dd976dd650\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\6c2026a49db3c38188ac06dd976dd650\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\90f84b42593bfa926451ac8752559e97\transformed\jetified-firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\90f84b42593bfa926451ac8752559e97\transformed\jetified-firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\fc32347fc33c2a43fddf15cdac8af1d1\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\fc32347fc33c2a43fddf15cdac8af1d1\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f92abcd711bbf49ea516836351086312\transformed\jetified-play-services-measurement-base-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f92abcd711bbf49ea516836351086312\transformed\jetified-play-services-measurement-base-22.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\42058dd2a9eec77df0f02789ef18b812\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\42058dd2a9eec77df0f02789ef18b812\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\7a0e4f46420641b4cdd6994142fa1900\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\7a0e4f46420641b4cdd6994142fa1900\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Muneeb\.gradle\caches\transforms-4\a9de8dca237e158eb58e664161c28c83\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] C:\Users\Muneeb\.gradle\caches\transforms-4\a9de8dca237e158eb58e664161c28c83\transformed\fragment-1.5.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8fb56e5fc7aabab916795d523d5f52c9\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8fb56e5fc7aabab916795d523d5f52c9\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\68e6949ca90bd4b8794c6830a999e6e2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\68e6949ca90bd4b8794c6830a999e6e2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\5e56c3a605b81d58358933c9b81602ed\transformed\jetified-fresco-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\5e56c3a605b81d58358933c9b81602ed\transformed\jetified-fresco-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\369a10a53947757522c973f53f12654d\transformed\jetified-drawee-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\369a10a53947757522c973f53f12654d\transformed\jetified-drawee-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\486d07ea3e0a7b0aca2522b8b7f1e22b\transformed\jetified-nativeimagefilters-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\486d07ea3e0a7b0aca2522b8b7f1e22b\transformed\jetified-nativeimagefilters-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\445e1c8df947b4a5e67f24caebf49dd3\transformed\jetified-memory-type-native-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\445e1c8df947b4a5e67f24caebf49dd3\transformed\jetified-memory-type-native-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\21cf2b1289a5fb20e640f18e3ff035f8\transformed\jetified-memory-type-java-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\21cf2b1289a5fb20e640f18e3ff035f8\transformed\jetified-memory-type-java-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\bf2a7121334dea5f4a7365aa20baa4a5\transformed\jetified-imagepipeline-native-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\bf2a7121334dea5f4a7365aa20baa4a5\transformed\jetified-imagepipeline-native-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\95cd913bcf82e29e7f2ff5f3913966dc\transformed\jetified-memory-type-ashmem-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\95cd913bcf82e29e7f2ff5f3913966dc\transformed\jetified-memory-type-ashmem-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\d4a7946779665e739cb00a7f85726adf\transformed\jetified-imagepipeline-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\d4a7946779665e739cb00a7f85726adf\transformed\jetified-imagepipeline-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\7a179a74ef174ca8a20bcf5989b077e3\transformed\jetified-hermes-android-0.74.1-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\7a179a74ef174ca8a20bcf5989b077e3\transformed\jetified-hermes-android-0.74.1-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\03ef13cb50c555ee2ab51e85c6f354a1\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\03ef13cb50c555ee2ab51e85c6f354a1\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\da7321c3914899c0455b3fc8464b1eb9\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\da7321c3914899c0455b3fc8464b1eb9\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\3d8ffa79e3d4fc76a8509d2f2e189ea8\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\3d8ffa79e3d4fc76a8509d2f2e189ea8\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f22b44b829e870cf9893c2c62f2f5922\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f22b44b829e870cf9893c2c62f2f5922\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f794654e1055241cdb40c74301b9056c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f794654e1055241cdb40c74301b9056c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\536bd5d8b92075a00bb753ca7987d500\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\536bd5d8b92075a00bb753ca7987d500\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Muneeb\.gradle\caches\transforms-4\3d48b78e99d6d0bb892ef0e7e0643591\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Muneeb\.gradle\caches\transforms-4\3d48b78e99d6d0bb892ef0e7e0643591\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1dc2eadc2d646c4db97aaaf05ff87660\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1dc2eadc2d646c4db97aaaf05ff87660\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\c1949a2c445840229f17934633ab6e9c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\c1949a2c445840229f17934633ab6e9c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\aa126eeecb81c8fc400e674305a167c2\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\aa126eeecb81c8fc400e674305a167c2\transformed\jetified-firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2fae4f7b8577c6395d9c04ced79ae93\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2fae4f7b8577c6395d9c04ced79ae93\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\389638d94d2d7301920a85edf7fe8bb0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\389638d94d2d7301920a85edf7fe8bb0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\f14d92355c03a111024081eef3fb4f75\transformed\jetified-nativeimagetranscoder-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\f14d92355c03a111024081eef3fb4f75\transformed\jetified-nativeimagetranscoder-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\9027444032a6308ee09b115734438dc8\transformed\jetified-imagepipeline-base-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\9027444032a6308ee09b115734438dc8\transformed\jetified-imagepipeline-base-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\ab04c3ac21d64da9d43f32b65b24cb5a\transformed\jetified-middleware-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\ab04c3ac21d64da9d43f32b65b24cb5a\transformed\jetified-middleware-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\e8c1b51c8fe1e97516570592e29f4010\transformed\jetified-ui-common-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\e8c1b51c8fe1e97516570592e29f4010\transformed\jetified-ui-common-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\da0473efe31df6fd21a4c8ec94322bdb\transformed\jetified-soloader-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\da0473efe31df6fd21a4c8ec94322bdb\transformed\jetified-soloader-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2c1814c9ef7ea33724c8ce5191e86245\transformed\jetified-fbcore-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] C:\Users\Muneeb\.gradle\caches\transforms-4\2c1814c9ef7ea33724c8ce5191e86245\transformed\jetified-fbcore-3.1.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\a6b66dd7bcd3e7fbf7b2b598d11eeb7f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\a6b66dd7bcd3e7fbf7b2b598d11eeb7f\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a1aaae2dfffe2111bb63cd3a3c0333ab\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a1aaae2dfffe2111bb63cd3a3c0333ab\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\750f1c389821a53eb5895cb495d57529\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\750f1c389821a53eb5895cb495d57529\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1c6841498d08e48f1bf70900dfdcb543\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\1c6841498d08e48f1bf70900dfdcb543\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8f028a369ac69e06e049f3fe22d84824\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8f028a369ac69e06e049f3fe22d84824\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8069682ef5022903c5c9e14c0a715770\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\8069682ef5022903c5c9e14c0a715770\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\afdd0da10734a27c03d51ae11db29cb2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\afdd0da10734a27c03d51ae11db29cb2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e7de39af6205377d16af1c9d3eac8248\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e7de39af6205377d16af1c9d3eac8248\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\72fd8feb8753003366f079470f9f14c6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\72fd8feb8753003366f079470f9f14c6\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f862e614dbd10485b23a70eca48dec26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\f862e614dbd10485b23a70eca48dec26\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\09076bdacf0f2407150dd107ae1cabd3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Muneeb\.gradle\caches\transforms-4\09076bdacf0f2407150dd107ae1cabd3\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\395325e78082c62a8bd9649e6780583d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\395325e78082c62a8bd9649e6780583d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\22639886ea77654a528ddce3d7117dfc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\22639886ea77654a528ddce3d7117dfc\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f5fbec64ecf0879986c6395aee48ab6b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\f5fbec64ecf0879986c6395aee48ab6b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a7e51fb5027be75503ef1d504ff422fb\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Muneeb\.gradle\caches\transforms-4\a7e51fb5027be75503ef1d504ff422fb\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\46846224f0673f386606add40887115d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\46846224f0673f386606add40887115d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\6b369a1baaf8be0c41b72aaf9a1c0033\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\Muneeb\.gradle\caches\transforms-4\6b369a1baaf8be0c41b72aaf9a1c0033\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ac0b3d27b74c1276eab820b742e96cc1\transformed\jetified-grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ac0b3d27b74c1276eab820b742e96cc1\transformed\jetified-grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\89d5e8defd84fc4b5a7016bf52238b60\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\89d5e8defd84fc4b5a7016bf52238b60\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\auth\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_storage] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\storage\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ac0b3d27b74c1276eab820b742e96cc1\transformed\jetified-grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Muneeb\.gradle\caches\transforms-4\ac0b3d27b74c1276eab820b742e96cc1\transformed\jetified-grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-firebase_app-check] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app-check\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-11:36
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-21:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-27:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-88
+queries
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-11:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-10:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-78
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-24:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-23:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-28:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Muneeb\Desktop\New folder\nord\android\app\src\debug\AndroidManifest.xml:2:1-9:12 reason: com.reactnative.ivpusic.imagepicker requested WRITE_EXTERNAL_STORAGE
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Muneeb\Desktop\New folder\nord\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:16:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.facebook.react:react-android:0.74.1] C:\Users\Muneeb\.gradle\caches\transforms-4\285fdc7a02ad75dd6892e577f2fadd7e\transformed\jetified-react-android-0.74.1-debug\AndroidManifest.xml:20:13-77
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9103f25cec9eb5c04be2da7a152ce833\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\cc2f50879868336b01542bc47157238f\transformed\jetified-firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.playintegrity.FirebaseAppCheckPlayIntegrityRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-playintegrity:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\06542f7e3451ad91ed9da080fcca4997\transformed\jetified-firebase-appcheck-playintegrity-18.0.0\AndroidManifest.xml:26:17-144
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.debug.FirebaseAppCheckDebugRegistrar
+ADDED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck-debug:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\abcff36cf371599d0613a70eaa71e3da\transformed\jetified-firebase-appcheck-debug-18.0.0\AndroidManifest.xml:26:17-128
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\79b753ffcaca55cd8dd0842f6b100307\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d3a5448f2559e18f5c20566b731a82a5\transformed\jetified-play-services-measurement-sdk-api-22.0.1\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\d23848a5d001375e8c14374634fcaf2e\transformed\jetified-play-services-measurement-api-22.0.1\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e1a0eb197b3c103a2405dc9799adc9e5\transformed\jetified-firebase-storage-21.0.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\91f61aa2a9351bb57cecfa6942c4d1cc\transformed\jetified-firebase-appcheck-18.0.0\AndroidManifest.xml:29:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\e96162675b6f6b4a540bf323346c0a6d\transformed\jetified-firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\ebb00c886fac6f935fa1d307da96c781\transformed\jetified-firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Muneeb\.gradle\caches\transforms-4\36d391017ce5ce75162f4dae1b0761e4\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Muneeb\.gradle\caches\transforms-4\758b061afe3443df45dd9c6daffabe83\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Muneeb\.gradle\caches\transforms-4\b2307fc788b4a32654831447ee13aa1e\transformed\jetified-recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\e5f96c3890a055213b21af94318790d9\transformed\jetified-play-services-auth-21.1.1\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\979502b913975041c9b78fa9178f0755\transformed\jetified-play-services-measurement-impl-22.0.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.1] C:\Users\Muneeb\.gradle\caches\transforms-4\99c2ce8eaf28f196d5c3f53f834dda5d\transformed\jetified-play-services-measurement-22.0.1\AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\812486c73c9da4d8935988babad317d8\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Muneeb\.gradle\caches\transforms-4\2fd38591a21fa5c887594212d3ac8962\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Muneeb\.gradle\caches\transforms-4\9deac561588495c0438da955d2b5b3a5\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Muneeb\.gradle\caches\transforms-4\b5b6778a5aabedf367011a3302dd1ef8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Muneeb\.gradle\caches\transforms-4\261067d071dcefa03a155f94ea5257df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Muneeb\.gradle\caches\transforms-4\441b6d1fc783dd888da18ddf69a310f7\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.nord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.nord.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Muneeb\.gradle\caches\transforms-4\10a8b092f0aa1f0a471324970802f2a6\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] C:\Users\Muneeb\.gradle\caches\transforms-4\cf9635b3c0813b333134d4eef5666aaf\transformed\jetified-soloader-0.10.5\AndroidManifest.xml:13:13-57
